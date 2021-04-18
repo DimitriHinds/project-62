@@ -1,0 +1,22 @@
+.container
+{
+    text-align: center;
+}
+
+#myCarousel
+{
+    background-color: brown;
+}
+#myCarousel img
+{
+    height: 300px;
+    width: 300px;
+    margin-top: 35px;
+}
+p
+{
+ font-size: 30px;
+    color: aquamarine;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
