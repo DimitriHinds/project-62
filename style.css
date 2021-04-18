@@ -1,22 +1,31 @@
-.container
+body
 {
     text-align: center;
 }
 
 #myCarousel
 {
-    background-color: brown;
+  background-color: black;
+    width: 800;
 }
 #myCarousel img
 {
     height: 300px;
-    width: 300px;
-    margin-top: 35px;
+    width: 800px;
 }
 p
 {
  font-size: 30px;
-    color: aquamarine;
+   color: azure;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+.image-section {
+    display: flex;
+    justify-content: center;
+}
+.pic
+{
+    height: 200px;
+    width: 200px;
 }
